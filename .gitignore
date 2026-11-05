@@ -1,0 +1,27 @@
+# Data, images and model weights live on Google Drive, never in Git
+data/
+checkpoints/
+outputs/
+*.pt
+*.safetensors
+*.ckpt
+
+# Notebooks / experiment tracking
+.ipynb_checkpoints/
+wandb/
+
+# Secrets
+.env
+
+# Local Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+docs/
