@@ -1,1 +1,6 @@
 run_id,timestamp,milestone,prompt,seed,model_id,scheduler,num_steps,guidance_scale,height,width,output_path,runtime_s,notes
+m1-20261106-063303-01,2026-11-06T06:33:12,M1,a red double-decker bus driving down a busy city street,39,stable-diffusion-v1-5/stable-diffusion-v1-5,PNDMScheduler,50,7.5,512,512,results/samples/m1_baseline/prompt_01.png,9.29,
+m1-20261106-063303-02,2026-11-06T06:33:22,M1,two cats sleeping on a blue couch next to a remote control,39,stable-diffusion-v1-5/stable-diffusion-v1-5,PNDMScheduler,50,7.5,512,512,results/samples/m1_baseline/prompt_02.png,8.76,
+m1-20261106-063303-03,2026-11-06T06:33:30,M1,a plate with a slice of pizza on the left and a fork on the right,39,stable-diffusion-v1-5/stable-diffusion-v1-5,PNDMScheduler,50,7.5,512,512,results/samples/m1_baseline/prompt_03.png,8.26,
+m1-20261106-063303-04,2026-11-06T06:33:38,M1,a man riding a surfboard on a large wave at sunset,39,stable-diffusion-v1-5/stable-diffusion-v1-5,PNDMScheduler,50,7.5,512,512,results/samples/m1_baseline/prompt_04.png,7.48,
+m1-20261106-063303-05,2026-11-06T06:33:45,M1,a bowl of oranges and bananas on a wooden kitchen table,39,stable-diffusion-v1-5/stable-diffusion-v1-5,PNDMScheduler,50,7.5,512,512,results/samples/m1_baseline/prompt_05.png,7.55,
